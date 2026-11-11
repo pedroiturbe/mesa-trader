@@ -1,0 +1,10 @@
+META|schema|oro_estadisticas/1
+META|generado|2026-11-10 22:20 PY
+STAT|DEV L|n=370|WR 44%|exp -0.033R|x2 -0.081R|DD1% -25%|DD5% -81%
+STAT|DEV NY|n=407|WR 46%|exp -0.026R|x2 -0.063R|DD1% -17%|DD5% -64%
+STAT|HOLD-OUT L|n=168|WR 49%|exp +0.006R|x2 -0.023R|DD1% -16%|DD5% -61%
+STAT|HOLD-OUT NY|n=345|WR 46%|exp +0.007R|x2 -0.017R|DD1% -13%|DD5% -52%
+STAT|TODO L+NY|n=1290|exp -0.015R (IC95 -0.06..+0.03)|x2 -0.051R|t -0.63|ruina-50% a 1%: 12.5%, a 5%: 95%
+NOTA|Gate v2: NO TRADE (13 fallas). Expectancy neta ~0, costos x2 negativos: NO TRADE. PRACTICA - no validada.
+NOTA|Proxy PAXGUSDT 5m (Binance) 2021-2026, costos de XAUUSD 0,30 USD + 0,10 ATR. No es XAUUSD del broker.
+NOTA|Ranking oro: 1584 bots GC (R68), 0 califican, 0 pasan gate v2. S1 en XAUUSD: negativa.
