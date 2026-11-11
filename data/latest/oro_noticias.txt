@@ -1,5 +1,5 @@
 META|schema|oro_noticias/1
-META|generado|2026-11-11 12:05 PY
+META|generado|2026-11-11 16:04 PY
 META|fuentes|BLS (CPI, NFP) bls.gov/schedule/news_release; BEA (PCE) bea.gov/news/schedule; Fed (FOMC) federalreserve.gov/monetarypolicy/fomccalendars.htm
 EVT|1795613400|PCE
 EVT|1796391000|NFP
