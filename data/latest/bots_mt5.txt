@@ -1,11 +1,11 @@
 META|schema|bots_mt5/1
-META|generado|2026-11-10 21:01 PY
+META|generado|2026-11-10 21:17 PY
 BOTS|2026-11-10 20:03 PY|3306|786|1105|1012|0|0
 RIESGO|5.0|5.0
 VIVOS|800|739|2026-11-10 20:02 PY
 GATE|0|757|NO TRADE
 KILL|OFF|-0.0902|739|5.0|2026-11-10 20:02 PY
-LAB|2026-11-10 09:11|exploracion_ronda68_2026-11-10|69|33.2
+LAB|2026-11-10 21:11|exploracion_ronda69_2026-11-10|70|33.2
 MEJ|2026-11-10 20:05|autocorreccion|Papel vivo 20:02: primer spawn aborto; reintento OK (800 vivos, 79 eventos en ledgers, 0 gate v2, push pages OK)
 MEJ|2026-11-10 18:30|autocorreccion|calib: TRX y AVA sin datos (HTTPError Coinbase); resto de pares OK, mismo hueco que corridas previas
 MEJ|2026-11-10 09:24|mejora|R68 estructura nueva: trimedia de Tukey, Conover, Pezier-White, Sharpe probabilistico, tau de Thompson y D'Agostino (sello de codigo CODIGO_R68 verifi

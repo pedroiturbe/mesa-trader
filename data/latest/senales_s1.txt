@@ -1,5 +1,5 @@
 META|schema|senales_s1/1
-META|generado|2026-11-10 21:01 PY
+META|generado|2026-11-10 21:17 PY
 META|estrategia|S1 scalp tendencia-pullback M5/M15 (prereg 2026-11-10)
 META|gate|NO pasa el gate v2 (M5: 13 fallas, M15: 13 fallas). Expectancy historica negativa.
 META|cal_hasta_utc|1797649200
