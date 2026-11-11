@@ -1,11 +1,11 @@
 META|schema|oro_bots/1
-META|generado|2026-11-11 09:41 PY
+META|generado|2026-11-11 12:05 PY
 BOT|Papel vivo GC (genomas): 6 en total, 2 con trades; ninguno pasa el gate v2
 BOT|D1 tendencia n=35 exp=+0.02R (papel, n bajo)
 BOT|D1 breakout n=13 exp=+0.28R (papel, n bajo)
-BOT|Papel oro H-ORO-1 (PRACTICA, no validada; gate v2 NO TRADE): 0 ops cerradas, 0 abiertas
+BOT|Papel oro H-ORO-1 (PRACTICA, no validada; gate v2 NO TRADE): 0 ops cerradas, 1 abiertas
 BOT|Sin operaciones cerradas todavia (n=0): nada que evaluar
-BOT|Hoy 2026-11-11: 0/2 ops, PnL +0.00 % / corte -2.0 % / kill -5.0 %: OFF
-BOT|Feed PAXGUSDT 5m cerradas, ultima vela 11-11 12:35 UTC (proxy del oro)
+BOT|Hoy 2026-11-11: 1/2 ops, PnL +0.00 % / corte -2.0 % / kill -5.0 %: OFF
+BOT|Feed PAXGUSDT 5m cerradas, ultima vela 11-11 15:00 UTC (proxy del oro)
 MEJ|Ranking oro y H-ORO-1 publicados (2026-11-10): 0 reglas califican; el panel muestra NO TRADE
 MEJ|Envoltura de 63 caracteres, plantilla con colores reales e inyeccion en .chr (9.4/9.5) reutilizadas
