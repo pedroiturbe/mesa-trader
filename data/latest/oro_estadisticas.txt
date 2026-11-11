@@ -1,5 +1,5 @@
 META|schema|oro_estadisticas/1
-META|generado|2026-11-11 00:03 PY
+META|generado|2026-11-11 03:59 PY
 STAT|DEV L|n=370|WR 44%|exp -0.033R|x2 -0.081R|DD1% -25%|DD5% -81%
 STAT|DEV NY|n=407|WR 46%|exp -0.026R|x2 -0.063R|DD1% -17%|DD5% -64%
 STAT|HOLD-OUT L|n=168|WR 49%|exp +0.006R|x2 -0.023R|DD1% -16%|DD5% -61%
